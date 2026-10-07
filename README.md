@@ -2,7 +2,7 @@
 
 > A curated list of AI and writing tools for series bibles, continuity, and multi-book fiction.
 
-Tools that help authors keep characters, lore, timelines, and voice consistent across sequels, shared worlds, and long-running series — focused on multi-book continuity, not one-off short-form copy.
+Tools that help authors keep characters, lore, timelines, and voice consistent across sequels, shared worlds, and long-running series, focused on multi-book continuity, not one-off short-form copy.
 
 ⭐ = recommended pick for series / multi-book authors.
 
@@ -16,6 +16,7 @@ Tools that help authors keep characters, lore, timelines, and voice consistent a
 - [Formatting & Export](#formatting--export)
 - [Covers & Series Branding](#covers--series-branding)
 - [General AI Assistants](#general-ai-assistants)
+- [Related Lists](#related-lists)
 - [Contributing](#contributing)
 
 ## AI Writing Suites for Series
@@ -47,6 +48,7 @@ Dedicated story-bible, cast, and continuity helpers for sequels and shared world
 Encyclopedia-style tools for settings, maps, and lore that span multiple books.
 
 - [World Anvil](https://www.worldanvil.com/) - Worldbuilding wiki for settings, timelines, and character encyclopedias.
+- [Kanka](https://kanka.io/) - Worldbuilding wiki for characters, locations, organizations, and calendars.
 - [LegendKeeper](https://www.legendkeeper.com/) - Visual wiki/map notebook for series bibles and location lore.
 
 ## Plotting Across Volumes
@@ -91,10 +93,17 @@ General-purpose models series writers use for continuity checks, recaps, and bra
 - [ChatGPT](https://openai.com/chatgpt/overview) - General AI chatbot for brainstorming arcs, character sheets, and sequel outlines.
 - [Google Gemini](https://gemini.google.com/) - Multimodal assistant for research, outlines, and drafting support.
 
+## Related Lists
+
+- [Awesome Romance AI Writers](https://github.com/grades2018/awesome-romance-ai-writers) - AI writing tools for romance novelists.
+- [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
+- [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
+- [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - Fantasy and speculative fiction writing, worldbuilding, and maps.
+
 ## Contributing
 
-PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to series / multi-book fiction, with official links and one-line blurbs.
+PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to series / multi-book fiction, with official links and one-line blurbs.
 
 ## License
 
-[CC0 1.0 Universal](LICENSE) — public domain dedication.
+[CC0 1.0 Universal](LICENSE), public domain dedication.
