@@ -99,6 +99,7 @@ General-purpose models series writers use for continuity checks, recaps, and bra
 - [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
 - [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
 - [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - Fantasy and speculative fiction writing, worldbuilding, and maps.
+- [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity tools.
 
 ## Contributing
 
