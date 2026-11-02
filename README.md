@@ -42,6 +42,7 @@ Dedicated story-bible, cast, and continuity helpers for sequels and shared world
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview) - Long-form project binder many series authors use for research folders and per-book manuscripts.
 - [Obsidian](https://www.obsidian.md/) - Linked-note vault popular for series wikis, character sheets, and continuity graphs.
 - [Notion](https://www.notion.so/) - Flexible databases and wikis for cast trackers, timeline tables, and series dashboards.
+- [RelationCanvas](https://relationcanvas.com/) - Free browser tool for character relationship charts with a separate label for each direction; PNG export.
 
 ## Worldbuilding Wikis
 
