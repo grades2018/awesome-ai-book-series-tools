@@ -67,6 +67,7 @@ Tools that help keep prose voice and continuity clean as the series grows.
 - [ProWritingAid](https://prowritingaid.com/) - In-depth style and manuscript reports for catching drift across long projects.
 - [AutoCrit](https://www.autocrit.com/) - Fiction-focused manuscript critique with genre-aware analysis options.
 - [Marlowe (Authors.ai)](https://authors.ai/marlowe/) - Analytical AI manuscript feedback on plot, pacing, and character for fiction.
+- [fiction-slop-lint](https://github.com/grades2018/fiction-slop-lint) - Free, offline linter (by this list's curator) that flags stock phrases, cliche beats, and repetition in fiction drafts, plus a [browser version](https://grades2018.github.io/fiction-slop-lint/). Not an AI detector.
 
 ## Formatting & Export
 
@@ -95,6 +96,7 @@ General-purpose models series writers use for continuity checks, recaps, and bra
 
 ## Related Lists
 
+- [Awesome Lists for Writers and Self-Publishers](https://github.com/grades2018/awesome-lists-for-writers) - Hub of curated lists for writing, editing, publishing, and marketing books.
 - [Awesome Romance AI Writers](https://github.com/grades2018/awesome-romance-ai-writers) - AI writing tools for romance novelists.
 - [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
 - [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
