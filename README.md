@@ -16,8 +16,6 @@ Tools that help authors keep characters, lore, timelines, and voice consistent a
 - [Formatting & Export](#formatting--export)
 - [Covers & Series Branding](#covers--series-branding)
 - [General AI Assistants](#general-ai-assistants)
-- [Related Lists](#related-lists)
-- [Contributing](#contributing)
 
 ## AI Writing Suites for Series
 
@@ -109,7 +107,3 @@ General-purpose models series writers use for continuity checks, recaps, and bra
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to series / multi-book fiction, with official links and one-line blurbs.
-
-## License
-
-[CC0 1.0 Universal](LICENSE), public domain dedication.
