@@ -107,3 +107,5 @@ General-purpose models series writers use for continuity checks, recaps, and bra
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to series / multi-book fiction, with official links and one-line blurbs.
+
+If this list is useful to you, a star helps other writers find it.

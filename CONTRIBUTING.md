@@ -28,3 +28,5 @@ Thanks for helping curate tools for series bibles, continuity, and multi-book fi
 - No duplicates; fix typos and dead links freely.
 
 Questions? Open an issue or PR and we’ll take a look.
+
+If this list is useful to you, a star helps other writers find it.
